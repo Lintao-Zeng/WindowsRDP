@@ -12,7 +12,7 @@ jobs:
     - name: Download Ngrok.
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
-        Invoke-WebRequest https://raw.githubusercontent.com/DinhPhuc/windows-rdp/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/start.bat -OutFile start.bat
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/wallpaper.bat -OutFile wallpaper.bat
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/loop.bat -OutFile loop.bat
         
