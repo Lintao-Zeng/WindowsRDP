@@ -39,7 +39,7 @@ jobs:
         :loop
         echo Job is still running...
         timeout /t 300 /nobreak >nul
-        if exist "%USERPROFILE%\Desktop\end.txt" (
+        if exist C:\Users\administrator\Desktop\end.txt" (
           echo Found end.txt on the desktop. Exiting loop.
           goto end
         )
