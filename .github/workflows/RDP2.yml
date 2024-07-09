@@ -34,25 +34,17 @@ jobs:
       run: cmd /c start.bat
 
       
-    - name: Run long-running task
-      id: long_running_task
+    - name: Read content from 1.txt
       run: |
-        @echo off
-        echo running
-        if exist C:\Users\administrator\Desktop\end.txt (
-            echo Found end.txt, triggering next workflow
-            curl -X POST -H "Accept: application/vnd.github.v3+json" ^
-                 -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ^
-                 https://api.github.com/repos/${{ github.repository }}/actions/workflows/next-workflow.yml/dispatches ^
-                 -d "{\"ref\":\"main\"}"
-        ) else (
-            ping -n 60 127.0.0.1 >nul
-            goto :long_running_task
-        )
-      shell: cmd
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        GITHUB_REPOSITORY: ${{ github.repository }}
+        while true; do
+          content=$(curl -sL https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt)  # 替换为实际的 URL
+          echo "Current content of 1.txt: $content"
+          if [[ "$content" == "1" ]]; then
+            echo "Found '1' in 1.txt, triggering next workflow"
+            break
+          fi
+          sleep 60  # 每分钟检查一次
+        done
 
         
     - name: Upload artifact
