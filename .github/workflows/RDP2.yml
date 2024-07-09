@@ -32,12 +32,29 @@ jobs:
       
     - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
-      
-    - name: Check end
-      run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
-        cmd /c check.bat
 
+      
+    - name: Run long-running task
+      id: long_running_task
+      run: |
+        @echo off
+        echo running
+        if exist C:\Users\administrator\Desktop\end.txt (
+            echo Found end.txt, triggering next workflow
+            curl -X POST -H "Accept: application/vnd.github.v3+json" ^
+                 -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" ^
+                 https://api.github.com/repos/${{ github.repository }}/actions/workflows/next-workflow.yml/dispatches ^
+                 -d "{\"ref\":\"main\"}"
+        ) else (
+            ping -n 60 127.0.0.1 >nul
+            goto :long_running_task
+        )
+      shell: cmd
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+
+        
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
