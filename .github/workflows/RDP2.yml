@@ -35,14 +35,18 @@ jobs:
       
     - name: Run loop script
       run: |
-        while ($true) {
-          Write-Output "Job is still running..."
-          if (Test-Path "$env:USERPROFILE\Desktop\end.txt") {
-            Write-Output "Found end.txt on the desktop. Exiting loop."
-            break
-          }
-          Start-Sleep -Seconds 300
-        }
+        @echo off
+        :loop
+        echo Job is still running...
+        timeout /t 300 /nobreak >nul
+        if exist "%USERPROFILE%\Desktop\end.txt" (
+          echo Found end.txt on the desktop. Exiting loop.
+          goto end
+        )
+        goto loop
+        :end
+        echo Script has ended.
+      shell: cmd
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
