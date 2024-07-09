@@ -36,7 +36,7 @@ jobs:
       
     - name: Read content from 1.txt
       run: |
-        while (true); do
+        while true; do
           content=$(curl -sL https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt)
           echo "$content"
           if [[ "$content" == "1" ]]; then
