@@ -34,16 +34,9 @@ jobs:
       run: cmd /c start.bat
       
     - name: Check end
-      shell: pwsh
       run: |
-        while ($true) {
-          Write-Output "Job is still running..."
-          if (Test-Path "C:\Users\administrator\Desktop\end.txt") {
-            Write-Output "Found end.txt on the desktop. Exiting loop."
-            break
-          }
-          Start-Sleep -Seconds 300
-        }
+        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
+        cmd /c check.bat
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
