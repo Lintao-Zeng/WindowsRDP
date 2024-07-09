@@ -1,19 +1,17 @@
-name: Windows-RDP2
+name: RDP2
 
 on: workflow_dispatch
 
 jobs:
   build:
-
     runs-on: windows-latest
-    timeout-minutes: 999999999999
+    timeout-minutes: 2160
 
     steps:
     - name: Download Ngrok.
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/start.bat -OutFile start.bat
-        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/loop.bat -OutFile loop.bat
         
     - name: Extract Ngrok File.
       run: Expand-Archive ngrok.zip
@@ -35,16 +33,19 @@ jobs:
     - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
       
-    - name: Check end
+    - name: Run loop script
       run: |
-        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
-        cmd /c check.bat
+        while ($true) {
+          Write-Output "Job is still running..."
+          if (Test-Path "$env:USERPROFILE\Desktop\end.txt") {
+            Write-Output "Found end.txt on the desktop. Exiting loop."
+            break
+          }
+          Start-Sleep -Seconds 300
+        }
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
         name: 1.tgz
         path: C:\Users\administrator\Desktop\1.tgz
-        
-    - name: Successful implementation! You can close the tab now.
-      run: cmd /c loop.bat
