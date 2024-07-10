@@ -33,18 +33,11 @@ jobs:
     - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
 
-      
-    - name: Read content from 1.txt
+    - name: Check end
       run: |
-        while (true); do
-          wget https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt
-          if [ cat 1.txt = "0" ]; then
-            echo "running"
-          fi
-          sleep 60  # 每分钟检查一次
-        done
+        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
+        cmd /c check.bat
     
-        
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
