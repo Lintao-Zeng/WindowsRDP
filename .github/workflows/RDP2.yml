@@ -36,15 +36,13 @@ jobs:
       
     - name: Read content from 1.txt
       run: |
-        while true; do
+        while (true); do
           content=$(curl -sL https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt)
-          echo "$content"
           if [[ "$content" == "1" ]]; then
-          echo "Found '1' in file, triggering next workflow"
-          curl -X POST -H "Accept: application/vnd.github.v3+json" \
-               -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               https://api.github.com/repos/${{ github.repository }}/actions/workflows/next-workflow.yml/dispatches \
-               -d "{\"ref\":\"main\"}"
+            curl -X POST -H "Accept: application/vnd.github.v3+json" \
+                 -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+                 https://api.github.com/repos/${{ github.repository }}/actions/workflows/next-workflow.yml/dispatches \
+                 -d "{\"ref\":\"main\"}"
           fi
           sleep 60  # 每分钟检查一次
         done
