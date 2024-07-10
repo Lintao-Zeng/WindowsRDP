@@ -36,7 +36,7 @@ jobs:
       
     - name: Read content from 1.txt
       run: |
-        while [[ $(curl -sL https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt) == "0" ]]; do
+        while ([[ $(curl -sL https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1.txt) == "0" ]]); do
           echo "running"
           sleep 60  # 每分钟检查一次
         done
