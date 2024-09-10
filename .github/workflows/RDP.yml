@@ -39,7 +39,7 @@ jobs:
         cmd /c check.bat
     
     - name: Upload artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: 1.tgz
         path: C:\Users\administrator\Desktop\1.tgz
