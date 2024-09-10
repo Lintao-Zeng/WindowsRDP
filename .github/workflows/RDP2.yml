@@ -33,38 +33,6 @@ jobs:
     - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
 
-    - name: Keep alive
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive2
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive3
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive4
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive5
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive6
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive7
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive8
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive9
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive10
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive11
-      run: timeout /t 1800  # 模拟等待半小时
-
-    - name: Keep alive12
-      run: timeout /t 1800  # 模拟等待半小时
+    - name: Sleep for 30 minutes
+      run: |
+        Start-Sleep -Seconds 1800
