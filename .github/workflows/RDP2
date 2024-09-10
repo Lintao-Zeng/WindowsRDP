@@ -1,0 +1,70 @@
+name: RDP2
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: windows-latest
+    timeout-minutes: 360
+
+    steps:
+    - name: Download Ngrok.
+      run: |
+        Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
+        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/start.bat -OutFile start.bat
+        
+    - name: Extract Ngrok File.
+      run: Expand-Archive ngrok.zip
+      
+    - name: Connect Ngrok.
+      run: .\ngrok\ngrok.exe authtoken $Env:NGROK_AUTH_TOKEN
+      env:
+        NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN }}
+        
+    - name: Action Access RDP.
+      run: | 
+        Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server'-name "fDenyTSConnections" -Value 0
+        Enable-NetFirewallRule -DisplayGroup "Remote Desktop"
+        Set-ItemProperty -Path 'HKLM:\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "UserAuthentication" -Value 1
+        
+    - name: Making tunnels
+      run: Start-Process Powershell -ArgumentList '-Noexit -Command ".\ngrok\ngrok.exe tcp --region ap 3389"'
+      
+    - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
+      run: cmd /c start.bat
+
+    - name: Keep alive
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive2
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive3
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive4
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive5
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive6
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive7
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive8
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive9
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive10
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive11
+    run: timeout /t 1800  # 模拟等待半小时
+
+    - name: Keep alive12
+    run: timeout /t 1800  # 模拟等待半小时
