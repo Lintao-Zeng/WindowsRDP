@@ -36,3 +36,47 @@ jobs:
     - name: Sleep for 30 minutes
       run: |
         Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes2
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes3
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes4
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes5
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes6
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes7
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes8
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes9
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes10
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes11
+      run: |
+        Start-Sleep -Seconds 1800
+
+    - name: Sleep for 30 minutes12
+      run: |
+        Start-Sleep -Seconds 1800
