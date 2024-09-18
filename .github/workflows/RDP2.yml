@@ -36,48 +36,36 @@ jobs:
 
     - name: Sleep for 30 minutes
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes2
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes3
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes4
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes5
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes6
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes7
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes8
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes9
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes10
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes11
       run: cmd /c 1800s.bat
-      shell: cmd
 
     - name: Sleep for 30 minutes12
       run: cmd /c 1800s.bat
-      shell: cmd
