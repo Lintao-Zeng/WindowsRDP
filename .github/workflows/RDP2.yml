@@ -12,6 +12,7 @@ jobs:
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/start.bat -OutFile start.bat
+        Invoke-WebRequest https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1800s.bat -OutFile 1800s.bat
         
     - name: Extract Ngrok File.
       run: Expand-Archive ngrok.zip
@@ -34,49 +35,37 @@ jobs:
       run: cmd /c start.bat
 
     - name: Sleep for 30 minutes
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes2
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes3
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes4
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes5
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes6
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes7
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes8
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes9
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes10
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes11
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
 
     - name: Sleep for 30 minutes12
-      run: |
-        Start-Sleep -Seconds 1800
+      run: cmd /c 1800s.bat
