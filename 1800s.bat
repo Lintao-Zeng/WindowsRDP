@@ -1,450 +1,595 @@
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
-ping 127.0.0.1
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
+ping 127.0.0.1 > ping_result.txt
