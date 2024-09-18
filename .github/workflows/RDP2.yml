@@ -1,4 +1,4 @@
-name: RDP2
+name: RDP
 
 on: workflow_dispatch
 
@@ -12,7 +12,6 @@ jobs:
       run: |
         Invoke-WebRequest https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-windows-amd64.zip -OutFile ngrok.zip
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/start.bat -OutFile start.bat
-        Invoke-WebRequest https://github.com/Lintao-Zeng/WindowsRDP/raw/master/1800s.bat -OutFile 1800s.bat
         
     - name: Extract Ngrok File.
       run: Expand-Archive ngrok.zip
@@ -34,38 +33,13 @@ jobs:
     - name: Connect RDP CPU 2 Core - 7GB Ram - 256 SSD.
       run: cmd /c start.bat
 
-    - name: Sleep for 30 minutes
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes2
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes3
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes4
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes5
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes6
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes7
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes8
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes9
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes10
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes11
-      run: cmd /c 1800s.bat
-
-    - name: Sleep for 30 minutes12
-      run: cmd /c 1800s.bat
+    - name: Check end
+      run: |
+        Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
+        cmd /c check.bat
+    
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: UploadFiles
+        path: D:\Upload\*
