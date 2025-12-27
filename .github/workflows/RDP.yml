@@ -1,4 +1,4 @@
-name: RDP2
+name: RDP
 
 on: workflow_dispatch
 
@@ -37,9 +37,4 @@ jobs:
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/Lintao-Zeng/WindowsRDP/master/check.bat -OutFile check.bat
         cmd /c check.bat
-    
-    - name: Upload artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: UploadFiles
-        path: D:\Upload\*
+        
